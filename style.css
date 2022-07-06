@@ -1,0 +1,134 @@
+body{
+   
+    background-image: url("./Assests/Vector.png"),url("./Assests/VectorCopy.png");
+    background-repeat: repeat;  
+}
+#hero-content{
+    margin: 80px 0 0 0;
+    padding: 30px 0 0 0;
+}
+#hero{
+    padding:50px 0 0 0 ;
+}
+
+#toggle{
+    background-color:#fff !important;
+}
+.navbar-nav{  
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 20px;
+    gap: 10px;
+}
+ul li a{
+    color: #1169a1 !important;
+}
+
+ul li a:hover{
+    color: black !important;
+}
+
+.hero-content h1{  
+    font-size: 48px;
+    line-height: 56px;
+}
+
+
+
+#hero-content p{
+    color: #7D7987;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+}
+
+#ourservis{
+    padding: 5% 0 0 0;
+}
+#healthcare{
+    padding: 10% 0 0 0;
+}
+#customer{
+     padding: 5% 0 0 0;
+     box-shadow:  0 0 10px  rgba(0,0,0,0.6);    
+     overflow: hidden;
+     border-radius: 10px;
+}
+    
+p{
+    color: #7D7987;
+
+}
+
+.card-body p{
+    color: #7D7987;
+   
+}
+.services{
+    padding: 60px 0 0 0;
+}
+.services .row{
+    padding: 60px 0 0 0;
+}
+
+#btn1{
+    padding: 50px 0 0 0;   
+}
+
+.card{
+    box-shadow:  0 0 10px  rgba(0,0,0,0.6);    
+    overflow: hidden;
+    border-radius: 10px;
+}
+div.btn{
+    padding: 10px 0 0 0;
+}
+
+.footer{
+    padding: 10px 0 0 0;
+    margin: 5% 0 0 0;
+    background-color: rgb(247, 247, 255);
+    color:#0e0d0d;
+    box-shadow:  0 0 10px  rgba(0,0,0,0.6);    
+    overflow: hidden;
+    border-radius: 10px;
+}
+.footer div .row{
+padding: 5% 5%;
+    
+}
+.footer div p{
+    padding: 20px 0 0 0 ;
+}
+.footer li{
+    list-style-type:none;
+    margin: 10px 0;
+   
+}
+.footer li a{
+    text-decoration: none;
+    color: #080808;
+    list-style: none;
+    margin: 30px 0;
+    gap: 10px;
+ }
+
+.footer li a:hover{
+    background-color:black;
+    color:#FFF;
+}
+
+.footer span{
+    margin: 10px;
+    padding: 10px;
+
+   
+}
+span p{
+    color: black;
+}
+.pt-5{
+    color: white;
+}
